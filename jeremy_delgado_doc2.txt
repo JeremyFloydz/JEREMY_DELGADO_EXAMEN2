@@ -1,1 +1,1 @@
-contenido fichero 2
+añado linea al fichero 2
